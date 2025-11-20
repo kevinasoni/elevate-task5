@@ -44,17 +44,3 @@ Apply and compare tree-based machine learning models for classification and feat
 
 ---
 
-## Output Samples
-
-**Decision Tree Confusion Matrix**  
-![Decision Tree Confusion Matrix](dt_cm.png)
-
-**Random Forest Confusion Matrix**  
-![Random Forest Confusion Matrix](rf_cm.png)
-
-**Decision Tree Depth vs Accuracy**  
-![Decision Tree Depth vs Accuracy](dt_depth_vs_acc.png)
-
-**Random Forest Feature Importances**  
-![Random Forest Feature Importances](rf_feat_imp.png)
-
